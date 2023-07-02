@@ -1,0 +1,194 @@
+{
+    "controlador.ed.lista.ListaEnlazada": {
+        "cabecera": {
+            "info": {
+                "@class": "modelo.Computadora",
+                "nombre": "iMac",
+                "id": 1,
+                "id_marca": 1,
+                "precio": 2000
+            },
+            "sig": {
+                "info": {
+                    "@class": "modelo.Computadora",
+                    "nombre": "MacBook",
+                    "id": 2,
+                    "id_marca": 2,
+                    "precio": 2500
+                },
+                "sig": {
+                    "info": {
+                        "@class": "modelo.Computadora",
+                        "nombre": "Pavilion",
+                        "id": 3,
+                        "id_marca": 3,
+                        "precio": 900
+                    },
+                    "sig": {
+                        "info": {
+                            "@class": "modelo.Computadora",
+                            "nombre": "Envy",
+                            "id": 4,
+                            "id_marca": 4,
+                            "precio": 1000
+                        },
+                        "sig": {
+                            "info": {
+                                "@class": "modelo.Computadora",
+                                "nombre": "EliteBook",
+                                "id": 5,
+                                "id_marca": 5,
+                                "precio": 950
+                            },
+                            "sig": {
+                                "info": {
+                                    "@class": "modelo.Computadora",
+                                    "nombre": "IdeaPad",
+                                    "id": 6,
+                                    "id_marca": 6,
+                                    "precio": 1000
+                                },
+                                "sig": {
+                                    "info": {
+                                        "@class": "modelo.Computadora",
+                                        "nombre": "ThinlPad",
+                                        "id": 7,
+                                        "id_marca": 7,
+                                        "precio": 2500
+                                    },
+                                    "sig": {
+                                        "info": {
+                                            "@class": "modelo.Computadora",
+                                            "nombre": "Legion7",
+                                            "id": 8,
+                                            "id_marca": 8,
+                                            "precio": 2000
+                                        },
+                                        "sig": {
+                                            "info": {
+                                                "@class": "modelo.Computadora",
+                                                "nombre": "ROG",
+                                                "id": 9,
+                                                "id_marca": 9,
+                                                "precio": 900
+                                            },
+                                            "sig": {
+                                                "info": {
+                                                    "@class": "modelo.Computadora",
+                                                    "nombre": "Surface",
+                                                    "id": 10,
+                                                    "id_marca": 10,
+                                                    "precio": 750
+                                                },
+                                                "sig": {
+                                                    "info": {
+                                                        "@class": "modelo.Computadora",
+                                                        "nombre": "Mac mini",
+                                                        "id": 11,
+                                                        "id_marca": 11,
+                                                        "precio": 950
+                                                    },
+                                                    "sig": {
+                                                        "info": {
+                                                            "@class": "modelo.Computadora",
+                                                            "nombre": "Mac Pro",
+                                                            "id": 12,
+                                                            "id_marca": 12,
+                                                            "precio": 1500
+                                                        },
+                                                        "sig": {
+                                                            "info": {
+                                                                "@class": "modelo.Computadora",
+                                                                "nombre": "Lenovo ThinkPad T14",
+                                                                "id": 13,
+                                                                "id_marca": 13,
+                                                                "precio": 2000
+                                                            },
+                                                            "sig": {
+                                                                "info": {
+                                                                    "@class": "modelo.Computadora",
+                                                                    "nombre": "Surface Go",
+                                                                    "id": 14,
+                                                                    "id_marca": 14,
+                                                                    "precio": 850
+                                                                },
+                                                                "sig": {
+                                                                    "info": {
+                                                                        "@class": "modelo.Computadora",
+                                                                        "nombre": "Asus Mini PC",
+                                                                        "id": 15,
+                                                                        "id_marca": 15,
+                                                                        "precio": 1500
+                                                                    },
+                                                                    "sig": {
+                                                                        "info": {
+                                                                            "@class": "modelo.Computadora",
+                                                                            "nombre": "Asus All-in-One",
+                                                                            "id": 16,
+                                                                            "id_marca": 16,
+                                                                            "precio": 1900
+                                                                        },
+                                                                        "sig": {
+                                                                            "info": {
+                                                                                "@class": "modelo.Computadora",
+                                                                                "nombre": "Lenovo Legion 7",
+                                                                                "id": 17,
+                                                                                "id_marca": 17,
+                                                                                "precio": 2500
+                                                                            },
+                                                                            "sig": {
+                                                                                "info": {
+                                                                                    "@class": "modelo.Computadora",
+                                                                                    "nombre": "Asus ExpertBook:",
+                                                                                    "id": 18,
+                                                                                    "id_marca": 18,
+                                                                                    "precio": 999
+                                                                                },
+                                                                                "sig": {
+                                                                                    "info": {
+                                                                                        "@class": "modelo.Computadora",
+                                                                                        "nombre": "Surface Pro",
+                                                                                        "id": 19,
+                                                                                        "id_marca": 19,
+                                                                                        "precio": 999
+                                                                                    },
+                                                                                    "sig": {
+                                                                                        "info": {
+                                                                                            "@class": "modelo.Computadora",
+                                                                                            "nombre": "Surface Studio",
+                                                                                            "id": 20,
+                                                                                            "id_marca": 20,
+                                                                                            "precio": 1200
+                                                                                        },
+                                                                                        "sig": {
+                                                                                            "info": {
+                                                                                                "@class": "modelo.Computadora",
+                                                                                                "nombre": "MacBook2",
+                                                                                                "id": 21,
+                                                                                                "id_marca": 21,
+                                                                                                "precio": 1200
+                                                                                            }
+                                                                                        }
+                                                                                    }
+                                                                                }
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "size": 21
+    }
+}

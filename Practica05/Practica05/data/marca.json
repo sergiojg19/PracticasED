@@ -1,0 +1,152 @@
+{
+    "controlador.ed.lista.ListaEnlazada": {
+        "cabecera": {
+            "info": {
+                "@class": "modelo.Marca",
+                "nombre": "Apple",
+                "id": 1
+            },
+            "sig": {
+                "info": {
+                    "@class": "modelo.Marca",
+                    "nombre": "Apple",
+                    "id": 2
+                },
+                "sig": {
+                    "info": {
+                        "@class": "modelo.Marca",
+                        "nombre": "Hp",
+                        "id": 3
+                    },
+                    "sig": {
+                        "info": {
+                            "@class": "modelo.Marca",
+                            "nombre": "Hp",
+                            "id": 4
+                        },
+                        "sig": {
+                            "info": {
+                                "@class": "modelo.Marca",
+                                "nombre": "Hp",
+                                "id": 5
+                            },
+                            "sig": {
+                                "info": {
+                                    "@class": "modelo.Marca",
+                                    "nombre": "Lenovo",
+                                    "id": 6
+                                },
+                                "sig": {
+                                    "info": {
+                                        "@class": "modelo.Marca",
+                                        "nombre": "Lenovo",
+                                        "id": 7
+                                    },
+                                    "sig": {
+                                        "info": {
+                                            "@class": "modelo.Marca",
+                                            "nombre": "Lenovo",
+                                            "id": 8
+                                        },
+                                        "sig": {
+                                            "info": {
+                                                "@class": "modelo.Marca",
+                                                "nombre": "Asus",
+                                                "id": 9
+                                            },
+                                            "sig": {
+                                                "info": {
+                                                    "@class": "modelo.Marca",
+                                                    "nombre": "Microsoft",
+                                                    "id": 10
+                                                },
+                                                "sig": {
+                                                    "info": {
+                                                        "@class": "modelo.Marca",
+                                                        "nombre": "Apple",
+                                                        "id": 11
+                                                    },
+                                                    "sig": {
+                                                        "info": {
+                                                            "@class": "modelo.Marca",
+                                                            "nombre": "Apple",
+                                                            "id": 12
+                                                        },
+                                                        "sig": {
+                                                            "info": {
+                                                                "@class": "modelo.Marca",
+                                                                "nombre": "Lenovo",
+                                                                "id": 13
+                                                            },
+                                                            "sig": {
+                                                                "info": {
+                                                                    "@class": "modelo.Marca",
+                                                                    "nombre": "Microsoft",
+                                                                    "id": 14
+                                                                },
+                                                                "sig": {
+                                                                    "info": {
+                                                                        "@class": "modelo.Marca",
+                                                                        "nombre": "Asus",
+                                                                        "id": 15
+                                                                    },
+                                                                    "sig": {
+                                                                        "info": {
+                                                                            "@class": "modelo.Marca",
+                                                                            "nombre": "Asus",
+                                                                            "id": 16
+                                                                        },
+                                                                        "sig": {
+                                                                            "info": {
+                                                                                "@class": "modelo.Marca",
+                                                                                "nombre": "Lenovo",
+                                                                                "id": 17
+                                                                            },
+                                                                            "sig": {
+                                                                                "info": {
+                                                                                    "@class": "modelo.Marca",
+                                                                                    "nombre": "Asus",
+                                                                                    "id": 18
+                                                                                },
+                                                                                "sig": {
+                                                                                    "info": {
+                                                                                        "@class": "modelo.Marca",
+                                                                                        "nombre": "Lenovo",
+                                                                                        "id": 19
+                                                                                    },
+                                                                                    "sig": {
+                                                                                        "info": {
+                                                                                            "@class": "modelo.Marca",
+                                                                                            "nombre": "Microsoft",
+                                                                                            "id": 20
+                                                                                        },
+                                                                                        "sig": {
+                                                                                            "info": {
+                                                                                                "@class": "modelo.Marca",
+                                                                                                "nombre": "Apple",
+                                                                                                "id": 21
+                                                                                            }
+                                                                                        }
+                                                                                    }
+                                                                                }
+                                                                            }
+                                                                        }
+                                                                    }
+                                                                }
+                                                            }
+                                                        }
+                                                    }
+                                                }
+                                            }
+                                        }
+                                    }
+                                }
+                            }
+                        }
+                    }
+                }
+            }
+        },
+        "size": 21
+    }
+}
